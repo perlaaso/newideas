@@ -17,7 +17,8 @@ http://www.bushwickcommunitymap.org/
 
 http://bl.ocks.org/anonymous/raw/a8c3cdfc2546330c5dc6
 
-
+https://github.com/JackDougherty/leaflet-storymap
+http://pembrokesoundscapes.ca/map
 
 MapStory is a possibility. It's a platform for "playable" maps of time dependant information. I've heard it referred to as "YouTube for maps". Not exactly the same as Esri Story Maps, but there are some similarities.
 
