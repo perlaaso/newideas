@@ -8,6 +8,8 @@ https://en.wikipedia.org/wiki/Semantic_Web
 https://www.w3.org/TR/json-ld-api/
 http://schema.org
 
+## Client mapping
+http://viglino.github.io/ol3-ext/
 
 ## Examples map story
 http://kartor.helsingborg.se/stadsplan/src/index.html?appid=6c25031e10dd44d290a00e1645b109f1
