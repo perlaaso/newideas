@@ -11,7 +11,18 @@ http://schema.org
 ## Client mapping
 http://viglino.github.io/ol3-ext/
 
+## Collector
+www.geoshape.org
+Check out http://www.epicollect.net/ , I found this very useful as an open source method of data collection for my masters. 
+
 ## Examples map story
+http://schoolofdata.org/2014/08/25/seven-ways-to-create-a-storymap/
+
+http://www.digital-geography.com/create-storymap/#.V96QFK03C00
+https://github.com/klakar/mystorymap/archive/master.zip
+
+http://atlefren.github.io/storymap/
+
 http://kartor.helsingborg.se/stadsplan/src/index.html?appid=6c25031e10dd44d290a00e1645b109f1
 http://www.bushwickcommunitymap.org/
 
