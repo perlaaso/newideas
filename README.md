@@ -3,6 +3,10 @@ New ideas
 
 http://www.digisam.se/
 
+## Webb
+https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525
+https://news.ycombinator.com/item?id=16306371
+
 ## Semantic web
 https://en.wikipedia.org/wiki/Semantic_Web
 https://www.w3.org/TR/json-ld-api/
