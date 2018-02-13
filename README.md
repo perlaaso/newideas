@@ -5,7 +5,9 @@ New ideas
 http://www.digisam.se/
 
 ## NN
+Shipping a Neural Network on iOS with CoreML, PyTorch, and React Native
 https://attardi.org/pytorch-and-coreml
+https://news.ycombinator.com/item?id=16364826
 
 ## Webb
 https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525
