@@ -1,7 +1,11 @@
 # newideas
 New ideas
 
+## Kulturarv
 http://www.digisam.se/
+
+## NN
+https://attardi.org/pytorch-and-coreml
 
 ## Webb
 https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525
