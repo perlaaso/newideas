@@ -117,7 +117,9 @@ https://2016.foss4g-na.org/session/point-cloud-web-services-greyhound-entwine-an
 ## StreetViews
 https://github.com/thomersch/mapillary-sequence-downloader/blob/master/downloader.py
 
-## Git
+## Versioning Git
+http://danluu.com/monorepo/
+https://news.ycombinator.com/item?id=16362345
 
 https://www.atlassian.com/git/tutorials/comparing-workflows
 http://www.beepsend.com/2016/04/05/abandoning-gitflow-github-favour-gerrit/
